@@ -96,8 +96,4 @@ Results
 
 Below are sample screenshots of the application in action:
 
-![Screenshot 2025-06-11 191613](https://github.com/user-attachments/assets/80758b42-01a7-48dd-90cc-520b34323608)
-![Screenshot 2025-06-11 191654](https://github.com/user-attachments/assets/0dd2b6fd-08c0-4faf-94a7-6b5d32407f6e)
-![Screenshot 2025-06-11 191716](https://github.com/user-attachments/assets/299b54ae-f675-4253-a4ee-3c1b66e113ba)
-![Screenshot 2025-06-11 191735](https://github.com/user-attachments/assets/87a38f70-65dc-408d-8552-a4da7bccb425)
-![Screenshot 2025-06-11 191802](https://github.com/user-attachments/assets/c8489b39-86e8-4345-80e5-293357fe12b5)
+
