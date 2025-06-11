@@ -95,9 +95,4 @@ Risk map shows location-based threat levels.
 
 Results
 
-
-![WhatsApp Image 2025-06-11 at 2 13 25 PM (1)](https://github.com/user-attachments/assets/e3239415-2407-4bfc-b60e-c693cdca6d7b)
-![WhatsApp Image 2025-06-11 at 2 13 26 PM](https://github.com/user-attachments/assets/77ebadfc-ae8b-4eea-8280-1cf9ff954210)
-![WhatsApp Image 2025-06-11 at 2 13 26 PM (!![WhatsApp Image 2025-06-11 at 2 13 25 PM](https://github.com/user-attachments/assets/12f86304-e50e-4c94-9027-834923c4e23e)
-[WhatsApp Image 2025-06-11 at 2 13 27 PM](https://github.com/user-attachments/assets/cbe1be17-4707-48bd-b976-79f239339ff0)
-1)](https://github.com/user-attachments/assets/211eda9a-55d1-4929-bc44-b865ffa5dd58)
+https://private-user-images.githubusercontent.com/187272224/453837427-e3239415-2407-4bfc-b60e-c693cdca6d7b.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk2MzI5ODAsIm5iZiI6MTc0OTYzMjY4MCwicGF0aCI6Ii8xODcyNzIyMjQvNDUzODM3NDI3LWUzMjM5NDE1LTI0MDctNGJmYy1iNjBlLWM2OTNjZGNhNmQ3Yi5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDYxMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA2MTFUMDkwNDQwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YjA4YWVhMTJjNzM1NzQwM2RhYjJhMDhkNjlkYzYzYzg5ZjAwMjUyODYzZTk4OTBmZTg0OGViNzc3YWZiN2RjNiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.KTDy6yfKi5qrJ6N50FAtHj4xmxH9tByKhvnWW_imTkQ
