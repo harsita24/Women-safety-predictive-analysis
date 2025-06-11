@@ -17,7 +17,7 @@ Features
 - Interactive Crime Analytics Dashboard
 - Risk Zone Mapping with Leaflet.js
 - SMS Notification via Twilio
-- Real-Time API Integration using Django + Flask
+- Real-Time API Integration using Django 
 
 Tech Stack
 ----------
