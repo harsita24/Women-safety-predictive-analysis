@@ -94,6 +94,7 @@ Risk map shows location-based threat levels.
 
 Results
 
+Below are sample screenshots of the application in action:
 
 ![Screenshot 2025-06-11 191613](https://github.com/user-attachments/assets/80758b42-01a7-48dd-90cc-520b34323608)
 ![Screenshot 2025-06-11 191654](https://github.com/user-attachments/assets/0dd2b6fd-08c0-4faf-94a7-6b5d32407f6e)
