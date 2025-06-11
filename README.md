@@ -92,3 +92,7 @@ Emergency voice command triggers audio recording and SMS alert.
 Dashboard displays crime prediction results.
 Risk map shows location-based threat levels.
 
+Results
+
+![Image](https://github.com/user-attachments/assets/5c0b145c-ff36-4ceb-a620-4ce1a0cdfd09)
+
