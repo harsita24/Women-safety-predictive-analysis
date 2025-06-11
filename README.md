@@ -96,8 +96,5 @@ Risk map shows location-based threat levels.
 Results
 
 
-![WhatsApp Image 2025-06-11 at 2 13 25 PM (1)](https://github.com/user-attachments/assets/888e5328-d10b-4387-be92-6ab30848e642)
-![WhatsApp Image 2025-06-11 at 2 13 26 PM](https://github.com/user-attachments/assets/b4859382-6e25-4b01-8856-481b39694467)
-![WhatsApp Image 2025-06-11 at 2 13 25 PM](https://github.com/user-attachments/assets/a92a06b0-e543-46a1-a707-c7e61ef67624)
-![WhatsApp Image 2025-06-11 at 2 13 27 PM](https://github.com/user-attachments/assets/92214b65-10e2-4494-b0cf-3a0a60fc475a)
-![WhatsApp Image 2025-06-11 at 2 13 26 PM (1)](https://github.com/user-attachments/assets/0aac75ad-1ea5-4ab9-996b-9871688b184a)
+
+![WhatsApp Image 2025-06-11 at 2 13 25 PM](https://github.com/user-attachments/assets/2c593de9-836d-4ea8-a7e2-f9976d34523b)
